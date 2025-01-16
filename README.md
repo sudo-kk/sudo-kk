@@ -1,8 +1,8 @@
-![Visitor Count](https://profile-counter.glitch.me/sudo-kk/count.svg)
+
 # 💫 About Me:
  Hi there! I'm Karthik V K, a passionate student coder and cybersecurity enthusiast 🖥️🔒.<br>🌱 I create projects like phishing awareness tools and a plant disease identification website 🌿📷.<br>🎓 Currently in Class 12 at Bharatiya Vidya Bhavan, graduating in 2025.<br>💻 Languages I code in: Python, HTML/CSS, JavaScript, and more!<br>🚀 Always exploring tech and cybersecurity to make the digital world safer.<br><br>Let's connect and innovate! 🚀✨
 
-
+## Visitors (Including You) : ![Visitor Count](https://profile-counter.glitch.me/sudo-kk/count.svg)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudo_kk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-v-k-b38170335) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sudo__kk) 
 
